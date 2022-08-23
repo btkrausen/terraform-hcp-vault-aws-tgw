@@ -10,3 +10,7 @@ Since most organizations already have an established network strategy, or the ne
 * A private route table exists for the VPC in the targeted account
 
 An [example .tfvars file](https://github.com/btkrausen/hcp_vault_aws_tgw/blob/main/examples/terraform.tfvars.example) is included to configure values of required variables.
+
+<br>
+
+![HCP Vault using Transit Gateway](images/hcp_vault_tgw.png)
