@@ -1,0 +1,13 @@
+client_id     = "ClienTiDxxxxxxxxxxxx"
+client_secret = "SeCretEXaMplexxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+aws_cloud_region = "us-east-1"
+
+vpc_id = "vpc-09dexample"
+tgw_id = "tgw-01example"
+
+route_table_id = "rtb-017example"
+
+vault_tier = "dev"
+
+hvn_id = "primary-hvn"
