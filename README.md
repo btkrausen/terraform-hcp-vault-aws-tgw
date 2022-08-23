@@ -13,7 +13,7 @@ An [example .tfvars file](https://github.com/btkrausen/hcp_vault_aws_tgw/blob/ma
 
 <br>
 
-<img alt="vault" src="https://github.com/btkrausen/terraform-hcp-vault-aws-tgw/blob/main/images/hcp_vault_tgw.png" />
+![Vault](https://github.com/btkrausen/terraform-hcp-vault-aws-tgw/blob/main/images/hcp_vault_tgw.png?raw=true)
 
  ***
 
