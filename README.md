@@ -13,7 +13,7 @@ An [example .tfvars file](https://github.com/btkrausen/hcp_vault_aws_tgw/blob/ma
 
 <br>
 
-***
+ ***
 
 ## Requirements
 
